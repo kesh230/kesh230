@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Core Java and Spring framework**
 
-- 📄 Know about my experiences by [Resume](https://drive.google.com/file/d/1m5cVqOUQT5r2QPPHczwWtw5l_q8Lk7U7/view?usp=sharing)
+- 📄 Know about my experiences by [Resume](https://drive.google.com/file/d/18qzdVZ-8HbdxMXFX2lFoo9qxOpR8eCOD/view?usp=sharing)
   
 
 <h3 align="left">Connect with me:</h3>
