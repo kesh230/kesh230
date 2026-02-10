@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kesh Kumar Chaurasiya</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A full-stack developer focused on building scalable applications</h3>
 
-- 🌱 Actively building and refining skills across multiple technologies including Java, JavaScript, AWS, MongoDB, and MySQL
+- 💻 Actively building and refining skills across multiple technologies including Java, JavaScript, AWS, MongoDB, and MySQL
 
-- 🌱 Focused on applying these technologies to real-world software development scenarios.
+- 🚀 Focused on applying these technologies to real-world software development scenarios.
 
 - 📄 Detailed skills, projects, and experience are available in my [Resume](https://drive.google.com/file/d/18qzdVZ-8HbdxMXFX2lFoo9qxOpR8eCOD/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
